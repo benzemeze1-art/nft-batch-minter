@@ -1,2 +1,5 @@
-# nft-batch-minter
-Batch mint multiple NFTs in one transaction example
+# NFT Batch Minter
+
+Batch mint multiple NFTs with one transaction.
+
+**Keywords:** crypto blockchain web3 solidity nft
